@@ -15,6 +15,8 @@
 * `sudo systemctl enable NetworkManager`: Enable network manager.
 * `sudo systemctl start wpa_supplicant.service`: Start wpa_supplicant.
 * `sudo systemctl enable wpa_supplicant.service`: Start wpa_supplicant.
+* `ps aux`: List processes.
+* `kill -9 <pid>`: Kill process.
 
 ## Arch
 
